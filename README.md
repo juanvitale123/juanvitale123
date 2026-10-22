@@ -1,5 +1,4 @@
-## Hola, soy Juan Ignacio Vitale 👋
-
+Buenas! soy Juan 
 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** en Málaga, con certificación **AWS Solutions Architect – Associate**. Me interesan el cloud, la automatización y la infraestructura, y en mi tiempo libre monto laboratorios en casa, desde agentes de IA que corren en mi propia GPU hasta pipelines de CI/CD.
 
 🎯 **Busco FCT en Málaga a partir de febrero/marzo de 2027.**
